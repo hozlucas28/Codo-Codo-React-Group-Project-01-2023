@@ -49,7 +49,7 @@
     Installation
 </h2>
 <p>
-    Clone the repository, install <a href="https://nodejs.org/es/" target="_blank">Node.js</a> (runtime environment) and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor). Then run command <code>npm install</code> to install all packages, necessary for a Vite app with React, and run command <code>npm run dev</code>. Done, now the project is ready to use.
+    Clone the repository, install <a href="https://nodejs.org/es/" target="_blank">Node.js</a> (runtime environment) and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor). Then run command <code>npm install</code> to install all packages, necessary for a Vite app with React, and run command <code>npm run dev</code>. Done, now the project is ready to be used.
 </p>
 
 <h2>
@@ -116,7 +116,7 @@
             <td>Acevedo Carlos</td>
             <td>Developer</td>
             <td>
-                <a href="XXX" target="_blank">GitHub profile</a>
+                GitHub profile
             </td>
         </tr>
         <tr>
