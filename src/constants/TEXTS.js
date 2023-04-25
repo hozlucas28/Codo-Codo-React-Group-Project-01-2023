@@ -28,7 +28,7 @@ const TEXTS = {
 
 	footer: {
 		copyright: 'Copyright © 2023',
-		linkToSourceCode: '[ Source Code ]',
+		sourceCode: '[ Source Code ]',
 	},
 }
 
