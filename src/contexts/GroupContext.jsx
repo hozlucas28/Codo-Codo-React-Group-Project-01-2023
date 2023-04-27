@@ -15,7 +15,7 @@ const groupThree = {
 			isLeader: true,
 		},
 		{
-			name: 'Fari;a Gladis',
+			name: 'Fariña Gladis',
 			photo: 'https://avatars.githubusercontent.com/u/96497035?v=4',
 			socialNetworks: {
 				email: 'lalyfar@hotmail.com',
@@ -30,16 +30,6 @@ const groupThree = {
 			socialNetworks: {
 				email: 'carlosacevedo1@yahoo.com',
 				gitHub: 'XXX', // TODO
-				linkedIn: 'XXX', // TODO
-			},
-			isLeader: false,
-		},
-		{
-			name: 'Francisco Carlos',
-			photo: 'https://avatars.githubusercontent.com/u/86804652?v=4',
-			socialNetworks: {
-				email: 'calitoozzy@gmail.com',
-				gitHub: 'https://github.com/calitoozzy',
 				linkedIn: 'XXX', // TODO
 			},
 			isLeader: false,
