@@ -12,15 +12,15 @@ const TEXTS = {
 
 			footer: {
 				email: {
-					title: 'Email profile of',
+					alt: 'Email profile of',
 				},
 
 				gitHub: {
-					title: 'GitHub profile of',
+					alt: 'GitHub profile of',
 				},
 
 				linkedIn: {
-					title: 'LinkedIn profile of',
+					alt: 'LinkedIn profile of',
 				},
 			},
 		},
